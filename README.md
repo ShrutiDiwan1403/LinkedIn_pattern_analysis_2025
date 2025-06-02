@@ -20,7 +20,7 @@ LinkedIn's engagement model relies on real-time behavioral analysis to personali
 
 
 
-## Underlying Data Mechanisms
+## Underlying data mechanisms
 
 LinkedIn's personalization engine is likely built on:
 
@@ -32,7 +32,7 @@ LinkedIn's personalization engine is likely built on:
 
 
 
-## Strategic Impacts
+## Strategic impacts
 
 | **Mechanism**                    | **Platform Outcome**                                                |
 |----------------------------------|----------------------------------------------------------------------|
@@ -56,6 +56,7 @@ LinkedIn's personalization engine is likely built on:
 
 LinkedIn is a case study in **algorithmic psychology**, leveraging session behavior, affinity clusters, and engagement timing to subtly steer user actions. It doesn’t just display content; it interprets and anticipates behavioral intent.
 
+## Components the study covers
 
-**Focus:** User Behavior Tracking, Recommendation Engine, Habit-Loop Design
+**Focus: User behavior tracking, Habit-loop design, Bias modeling, Retention mechanism and Affinity clustering**
 
