@@ -1,4 +1,4 @@
-# LinkedIn: Data-Driven Engagement Engine   
+# LinkedIn: Pattern Analysis 
 
 ## Introduction  
 LinkedIn's engagement model relies on real-time behavioral analysis to personalize content delivery, increase session time, and reduce churn. By observing user actions (both passive and active) the platform dynamically adjusts feed content and interface behavior using predictive data models.
